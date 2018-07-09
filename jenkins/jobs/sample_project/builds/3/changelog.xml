@@ -1,0 +1,22 @@
+commit 922a4bb7bf741ee36cc620905354f0397e23eb08
+tree 94e5ab84c911b87529489feb61ae3d75acc610b3
+parent cd23c41773b1f640650b478a6e992875a5eb2251
+author firstshivu <40829678+firstshivu@users.noreply.github.com> 2018-07-05 18:42:48 +0530
+committer GitHub <noreply@github.com> 2018-07-05 18:42:48 +0530
+
+    Delete file1
+
+    hvggyhbhjbj
+
+:100755 000000 dbe58ebe60f93be681a2c8099d33ace42478bb73 0000000000000000000000000000000000000000 D	file1
+commit cd23c41773b1f640650b478a6e992875a5eb2251
+tree 0f2d91c4c432e7fcfa503c8b7439f2b71b7a4c28
+parent ec88f4d00d7c2397ea432899cf560dc37fd26e80
+author firstshivu <shivakumar.togalure7@gmail.com> 2018-07-05 13:11:38 +0000
+committer firstshivu <shivakumar.togalure7@gmail.com> 2018-07-05 13:11:38 +0000
+
+    added
+
+
+
+:000000 100755 0000000000000000000000000000000000000000 dbe58ebe60f93be681a2c8099d33ace42478bb73 A	file1.sh
