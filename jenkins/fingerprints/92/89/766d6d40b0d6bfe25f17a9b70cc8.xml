@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2018-07-05 13:06:10.352 UTC</timestamp>
+  <md5sum>9289766d6d40b0d6bfe25f17a9b70cc8</md5sum>
+  <fileName>Credential id=c5782970-1566-4ac3-ab69-ececd3210c93 name=firstshivu/******</fileName>
+  <usages>
+    <entry>
+      <string>sample_project</string>
+      <ranges>1-25</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
